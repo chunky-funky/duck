@@ -1,0 +1,7 @@
+the program is untested (sorry i made it during class at school lol)
+
+it currenntly looks for the images in "d:/Pictures/"
+if you dont have a drive with the letter "d" easiest way would be to lable a usb drive as "d" 
+and put the duck gif frames that are included in there under a folder called "pictures"
+run it with duckrun.bat which should be run from the same directory as all the other .bat files.
+if you want to change the images have fun it took me a hour or two just to set 170 images for the 8.5 second 20fps duck gif 
